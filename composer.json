@@ -1,0 +1,11 @@
+{
+    "require" : {
+        "twig/twig" : "1.9.2",
+        "symfony/console" : "2.1.2",
+        "symfony/process" : "2.1.2",
+        "symfony/yaml" : "2.1.2"
+    },
+    "autoload" : {
+        "psr-0" : { "DPB" : "src/" }
+    }
+}
